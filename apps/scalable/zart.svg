@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="48"
    width="48"
    version="1.1"
    id="svg10"
    sodipodi:docname="zart.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,26 +37,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1031"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="6.5554691"
-     inkscape:cx="-25.377753"
-     inkscape:cy="26.143959"
+     inkscape:cx="-55.831245"
+     inkscape:cy="26.08509"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg10"
-     inkscape:document-rotation="0" />
-  <circle
-     cx="23.940615"
-     cy="31.534513"
-     fill="#4c566a"
-     opacity=".99"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <path
      id="circle2"
-     style="fill:#cc9279;fill-opacity:1"
+     style="opacity:0.99;fill:#d08770;fill-opacity:1"
      transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
-     r="13.232998" />
+     d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
   <g
      id="g873"
      transform="matrix(0.83151011,0,0,0.83151011,13.53477,6.8375132)">
@@ -77,12 +74,10 @@
        d="m 2.30107,11.203995 c -1.716044,-0.008 -3.647291,0.13634 -4.869719,0.390812 -9.156918,1.90614 -3.647905,8.796854 1.336054,9.318 6.039561,1.406124 20.345717,-2.689842 26.139177,-3.684464 0.766436,-0.13156 1.486886,-0.219954 1.911738,-0.243592 2.3952,-0.1332 4.620936,0.496662 5.075694,0.639386 0.09214,0.02344 0.938766,0.40532 0.478426,-0.53271 -0.362164,-0.73799 -4.08985,-3.081752 -6.546062,-3.572042 -1.918598,-0.63945 -3.918844,-1.445224 -6.042498,-1.291282 -2.625722,0.19036 -6.167934,3.377788 -4.656014,3.355 1.490492,-0.0225 3.364952,-1.37733 5.026272,-1.355402 1.216702,0.0158 4.13922,0.332662 3.546194,1.206972 C 23.114306,16.153477 14.31707,16.968879 7.583398,16.703939 3.521544,16.544099 -0.911961,14.692403 0.748236,13.416271 2.722574,11.898677 6.244202,12.089929 5.879598,11.730061 5.518022,11.373177 4.017116,11.212175 2.30107,11.203995 Z"
        id="path14" />
   </g>
-  <circle
-     style="fill:#cc9279;fill-opacity:0.99215686;stroke-width:1.25546"
+  <path
      id="path1654"
-     cx="32.218105"
-     cy="32.35598"
-     r="11.8201" />
+     style="fill:#d08770;fill-opacity:1;stroke-width:1.25546"
+     d="m 44.038205,32.35598 a 11.8201,11.8201 0 0 1 -11.8201,11.8201 11.8201,11.8201 0 0 1 -11.8201,-11.8201 11.8201,11.8201 0 0 1 11.8201,-11.8201 11.8201,11.8201 0 0 1 11.8201,11.8201 z" />
   <circle
      style="fill:#ffffff;fill-opacity:0.56821758;stroke-width:1.03121"
      id="circle1656"

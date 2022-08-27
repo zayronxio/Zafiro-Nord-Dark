@@ -13,8 +13,8 @@
    width="48"
    height="48"
    id="svg81"
-   sodipodi:docname="maps.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   sodipodi:docname="gpsdrive.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata85">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1028"
      id="namedview83"
      showgrid="false"
-     inkscape:zoom="2.8284273"
-     inkscape:cx="-113.64323"
-     inkscape:cy="22.956279"
+     inkscape:zoom="11.313709"
+     inkscape:cx="19.330784"
+     inkscape:cy="14.745536"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -92,7 +92,7 @@
      cy="242.23532"
      cx="240.41631"
      id="path970"
-     style="fill:#76b3e4;fill-opacity:1;stroke:none;stroke-width:2.76503;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:#81a1c1;fill-opacity:1;stroke:none;stroke-width:2.76503;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <circle
      r="201.86069"
      cy="242.23532"
@@ -106,7 +106,7 @@
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0209;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="path855"
-     style="fill:#e9816f;fill-opacity:1;stroke-width:9.77263;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+     style="fill:#d08770;fill-opacity:1;stroke-width:9.77263;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
      d="m 243.87273,2.4458555 c -62.23341,0 -112.69066,50.4572515 -112.69066,112.6906645 L 243.87273,266.72683 356.56339,115.13652 c 0,-62.233413 -50.45725,-112.6906645 -112.69066,-112.6906645 z" />
   <circle
      style="fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"

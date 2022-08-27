@@ -56,7 +56,7 @@
      id="path2"
      style="fill:#889cbc;fill-opacity:1" />
   <circle
-     style="fill:#fefffffff;fill-opacity:0.99215698;stroke-width:2.05471;stroke-linecap:square"
+     style="fill:#feffff;fill-opacity:0.99215698;stroke-width:2.05471;stroke-linecap:square"
      id="path835"
      cx="24.005949"
      cy="13.22702"
@@ -69,6 +69,6 @@
      style="fill:#ffffff;fill-opacity:0.24299738;stroke-width:1.0494" />
   <path
      id="path837"
-     style="fill:#fefffffff;fill-opacity:0.99215698;stroke-width:1.80608;stroke-linecap:square"
+     style="fill:#feffff;fill-opacity:0.99215698;stroke-width:1.80608;stroke-linecap:square"
      d="m 23.999768,21.344156 -2.608521,2.222262 2.046685,2.42793 -0.717344,8.43255 1.27918,4.449536 1.279179,-4.449536 -0.717344,-8.43255 2.046687,-2.42793 z m -3.576685,0.0051 c -6.90755,1.721762 -10.128087,8.408552 -10.128087,14.938804 h 11.763431 l -3.576685,-6.857404 2.503177,-2.718882 -4.45957,-1.198917 z m 7.153369,0 3.897734,4.163601 -4.459568,1.198917 2.503179,2.718882 -3.576685,6.857404 h 11.76343 c 0,-6.530252 -3.220538,-13.217042 -10.12809,-14.938804 z" />
 </svg>

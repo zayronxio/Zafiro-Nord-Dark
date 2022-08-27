@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1028"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="6.6880515"
@@ -49,19 +49,16 @@
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0" />
   <path
-     d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z"
-     fill="#89a02c"
-     opacity=".99"
      id="path2"
-     style="fill:#6dadcf;fill-opacity:1"
-     transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)" />
+     style="fill:#81a1c1;fill-opacity:1;stroke-width:1.15035"
+     d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z " />
   <path
      id="path1136"
-     style="fill:#a090c7;fill-opacity:1;stroke-width:1.15035"
+     style="fill:#b48ead;fill-opacity:1;stroke-width:1.15035"
      d="M 1.1816406 25.832031 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.423828 25.845703 C 46.379938 25.841746 46.337923 25.832031 46.292969 25.832031 L 1.1816406 25.832031 z " />
   <path
      id="path1156"
-     style="fill:#a090c7;fill-opacity:1;stroke-width:1.15035"
+     style="fill:#b48ead;fill-opacity:1;stroke-width:1.15035"
      d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z M 23.759766 3.2382812 A 20.762165 20.762169 0 0 1 23.804688 3.2382812 A 20.762165 20.762169 0 0 1 44.566406 24 A 20.762165 20.762169 0 0 1 23.804688 44.761719 A 20.762165 20.762169 0 0 1 3.0410156 24 A 20.762165 20.762169 0 0 1 23.759766 3.2382812 z " />
   <circle
      style="fill:#ffffff;fill-opacity:1;stroke-width:35;stroke-linecap:round;stroke-linejoin:round"

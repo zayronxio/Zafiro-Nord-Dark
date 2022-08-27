@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1028"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="9.4583333"
@@ -48,15 +48,11 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      inkscape:document-rotation="0" />
-  <circle
-     cx="23.940615"
-     cy="31.534513"
-     fill="#5e81ac"
-     opacity=".99"
-     r="13.232998"
-     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
+  <path
      id="circle2"
-     style="fill:#7d93a2;fill-opacity:1" />
+     style="opacity:0.99;fill:#6a8495;fill-opacity:1"
+     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
+     d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
   <g
      id="g849"
      transform="translate(0.22690108,-2.5048022)">
@@ -71,7 +67,7 @@
   </g>
   <path
      id="circle937"
-     style="opacity:0.99;fill:#4f626f;fill-opacity:0.9921568"
+     style="opacity:0.99;fill:#4c5963;fill-opacity:0.9921568"
      transform="matrix(1.7583058,0,0,1.7583061,-18.159093,-30.978748)"
      d="m 37.173613,31.534513 c 0,1.827096 -0.370288,3.567706 -1.039915,5.15088 -0.669626,1.583174 -1.63859,3.008912 -2.83594,4.206263 -2.394702,2.394701 -5.702952,3.875855 -9.357143,3.875855 -1.827096,0 -3.567706,-0.370288 -5.15088,-1.039915 -1.583174,-0.669626 -3.008913,-1.638589 -4.206263,-2.83594 -1.19735,-1.197351 -2.166314,-2.623089 -2.83594,-4.206263 z"
      sodipodi:nodetypes="cssssscc" />

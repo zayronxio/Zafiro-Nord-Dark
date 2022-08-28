@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg6"
-   sodipodi:docname="accessories-text-editor.svg"
+   sodipodi:docname="group-edit.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -56,8 +56,8 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="5.6568542"
-     inkscape:cx="40.65864"
-     inkscape:cy="21.92031"
+     inkscape:cx="7.3362329"
+     inkscape:cy="21.831922"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,23 +71,26 @@
      d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
   <path
      id="circle858"
-     style="opacity:0.99;fill:#ffffff;fill-opacity:0.33133605;stroke-width:1.49587"
+     style="opacity:1;fill:#4c566a;fill-opacity:1;stroke-width:1.49587"
      d="M 43.730616,24.468578 A 19.794786,19.79479 0 0 1 23.935829,44.263369 19.794786,19.79479 0 0 1 4.1410427,24.468578 19.794786,19.79479 0 0 1 23.935829,4.6737881 19.794786,19.79479 0 0 1 43.730616,24.468578 Z" />
   <path
      d="m 30.719534,16.948209 -15,15"
      stroke="#ffffff"
      stroke-width="5"
-     id="path6" />
+     id="path6"
+     style="fill:#ebcb8b;fill-opacity:0.99215686;stroke:#ebcb8b;stroke-opacity:0.99215686" />
   <path
      d="m 34.719534,12.948209 -2.5,2.5"
      stroke="#ffffff"
      stroke-opacity="0.609155"
      stroke-width="5"
-     id="path8" />
+     id="path8"
+     style="fill:#ffffff;fill-opacity:0.9921568;stroke:#ffffff;stroke-opacity:1" />
   <path
      d="m 12.719534,31.448209 3.5,3.5 -5,1 z"
      fill="#ffffff"
      fill-opacity="0.607843"
      fill-rule="evenodd"
-     id="path12" />
+     id="path12"
+     style="fill:#ffffff;fill-opacity:0.9921568" />
 </svg>

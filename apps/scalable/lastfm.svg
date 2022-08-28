@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48.000001"
    id="svg4232"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="lastfm.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="xn-lastfm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4234">
     <radialGradient
@@ -960,17 +960,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="2.344428"
-     inkscape:cy="8.6123087"
+     inkscape:cx="-21.402607"
+     inkscape:cy="8.6494311"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4780" />
@@ -983,7 +984,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -992,12 +993,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <circle
-       style="opacity:1;fill:#d48366;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+    <path
        id="path4782"
-       cx="24"
-       cy="1028.8622"
-       r="22.5" />
+       style="opacity:1;fill:#bf616a;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="m 46.5,1028.8622 a 22.5,22.5 0 0 1 -22.5,22.5 22.5,22.5 0 0 1 -22.5,-22.5 22.5,22.5 0 0 1 22.5,-22.5 22.5,22.5 0 0 1 22.5,22.5 z" />
     <path
        id="path1000-0"
        d="m 18.498174,1020.5983 c -2.85871,0.064 -5.670399,1.665 -7.059735,4.5309 -2.0453524,4.2205 -0.348228,9.2291 3.804706,11.222 0.63641,0.3059 1.59484,0.6181 2.130285,0.692 1.907022,0.2628 3.685049,-0.097 5.234119,-1.0581 1.019329,-0.6315 2.130741,-1.6553 2.130741,-1.9613 0,-0.1041 -0.220145,-0.6938 -0.491431,-1.3107 l -0.494095,-1.1216 -0.249939,0.4069 c -0.479864,0.785 -1.657572,1.8368 -2.534574,2.261 -0.760497,0.3683 -1.09405,0.4274 -2.382923,0.4274 -1.338216,0 -1.602353,-0.051 -2.441556,-0.4767 -1.164365,-0.5897 -2.218748,-1.6852 -2.755105,-2.8628 -0.354012,-0.777 -0.40693,-1.1128 -0.40693,-2.5262 0,-1.4782 0.04225,-1.7171 0.46208,-2.5719 0.512334,-1.0442 1.604175,-2.189 2.569184,-2.6973 1.000213,-0.5265 2.530589,-0.7418 3.624138,-0.5088 2.166718,0.4621 3.469412,1.6367 4.482012,4.0432 2.442468,5.8046 3.205162,7.395 3.955447,8.2431 1.117173,1.2621 2.014611,1.6272 4.004858,1.6303 1.400039,0 1.68558,-0.049 2.543455,-0.4563 1.88391,-0.8939 2.826263,-2.4069 2.804973,-4.5051 -0.0249,-2.4331 -1.036236,-3.4792 -4.482014,-4.6413 -2.495863,-0.8419 -2.999317,-1.2608 -2.999317,-2.4882 0,-1.2302 0.787628,-1.9938 2.054687,-1.9938 0.732479,0 1.149678,0.1824 1.763796,0.7734 0.302414,0.2904 0.527454,0.3811 0.788071,0.3109 0.497216,-0.1339 1.39207,-0.7169 1.39207,-0.9068 0,-0.3927 -1.544516,-1.7647 -2.278862,-2.0232 -1.732259,-0.6093 -3.692677,-0.1988 -4.827554,1.0087 -0.788072,0.8392 -1.099378,1.6628 -1.09849,2.8916 0.0027,2.2913 1.139432,3.4422 4.653246,4.7026 2.307326,0.8281 2.760911,1.2426 2.760911,2.5262 0,1.5223 -1.255901,2.6097 -3.019696,2.6097 -1.078042,0 -1.637534,-0.1966 -2.240608,-0.7849 -0.566152,-0.552 -0.890357,-1.2128 -2.633283,-5.3622 -1.665997,-3.9671 -2.161367,-4.8649 -3.270172,-5.9141 -1.558406,-1.477 -3.536927,-2.1512 -5.492904,-2.1071"

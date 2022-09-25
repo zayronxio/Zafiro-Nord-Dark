@@ -1,1 +1,58 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z" fill="#89a02c" opacity=".99" transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"/><g fill="#ffffff"><path d="m25.875 31.677734a6 6 0 0 0 -5.001953 2.69336 5.3370876 5.1161165 0 0 0 -2.943359-.853516 5.3370876 5.1161165 0 0 0 -5.166016 3.857422 4.8995876 4.6161165 0 0 0 -.746094-.058594 4.8995876 4.6161165 0 0 0 -3.486328 1.376953 21.19623 21.196233 0 0 0 15.273438 6.501953 21.19623 21.196233 0 0 0 15.816406-7.117187 4.4973984 3.8344855 0 0 0 -1.275391-1.035156 5.3370876 5.1161165 0 0 0 -5.267578-4.304688 5.3370876 5.1161165 0 0 0 -2.863281.800781 6 6 0 0 0 -4.339844-1.861328z" fill-opacity=".551095" opacity=".99" transform="matrix(1.00000000503 0 0 1.00000000503 .00000016713 .00000082254)"/><rect height="13.5" ry="1.5" width="16.5" x="12" y="16.5"/><path d="m30 19.5 6-3v13.5l-6-3z" fill-rule="evenodd"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="4kvideodownloader.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.9168155"
+     inkscape:cx="98.22356"
+     inkscape:cy="101.65196"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     id="path2"
+     style="stroke-width:1.15035;fill:#a3be8c;fill-opacity:1"
+     d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z " />
+  <g
+     fill="#ffffff"
+     id="g10">
+    <path
+       d="m25.875 31.677734a6 6 0 0 0 -5.001953 2.69336 5.3370876 5.1161165 0 0 0 -2.943359-.853516 5.3370876 5.1161165 0 0 0 -5.166016 3.857422 4.8995876 4.6161165 0 0 0 -.746094-.058594 4.8995876 4.6161165 0 0 0 -3.486328 1.376953 21.19623 21.196233 0 0 0 15.273438 6.501953 21.19623 21.196233 0 0 0 15.816406-7.117187 4.4973984 3.8344855 0 0 0 -1.275391-1.035156 5.3370876 5.1161165 0 0 0 -5.267578-4.304688 5.3370876 5.1161165 0 0 0 -2.863281.800781 6 6 0 0 0 -4.339844-1.861328z"
+       fill-opacity=".551095"
+       opacity=".99"
+       transform="matrix(1.00000000503 0 0 1.00000000503 .00000016713 .00000082254)"
+       id="path4" />
+    <rect
+       height="13.5"
+       ry="1.5"
+       width="16.5"
+       x="12"
+       y="16.5"
+       id="rect6" />
+    <path
+       d="m30 19.5 6-3v13.5l-6-3z"
+       fill-rule="evenodd"
+       id="path8" />
+  </g>
+</svg>

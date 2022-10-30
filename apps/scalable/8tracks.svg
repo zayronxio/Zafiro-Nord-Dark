@@ -1,1 +1,54 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><g fill="#626c97" opacity=".99" transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"><path d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z"/><path d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z"/></g><path d="m23.803771 20.5c0-3-2-10 7-10s9 14 0 14h-14c-8.9999996 0-8.9999996 14 0 14 9 0 7.041425-8 7-10" fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="4"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="8tracks.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.125"
+     inkscape:cx="52.727273"
+     inkscape:cy="74.545454"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     fill="#626c97"
+     opacity=".99"
+     transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"
+     id="g6">
+    <path
+       d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z"
+       id="path2" />
+    <path
+       id="path4"
+       style="stroke-width:1.15035;fill:#8690ba;fill-opacity:1"
+       d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z "
+       transform="matrix(0.86929694,0,0,0.86929694,3.8997748,6.5419507)" />
+  </g>
+  <path
+     d="m23.803771 20.5c0-3-2-10 7-10s9 14 0 14h-14c-8.9999996 0-8.9999996 14 0 14 9 0 7.041425-8 7-10"
+     fill="none"
+     stroke="#ffffff"
+     stroke-linejoin="round"
+     stroke-width="4"
+     id="path8" />
+</svg>

@@ -1,1 +1,55 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z" fill="#4dacc2" opacity=".99" transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"/><path d="m2.9980469 33a22.696228 22.696232 0 0 0 20.8066411 13.695312 22.696228 22.696232 0 0 0 20.826171-13.695312z" fill="#32323a" fill-opacity=".542857"/><g fill="#ffffff"><path d="m10.5 24h6v6h-6z"/><path d="m21 24h6v6h-6z"/><path d="m31.5 24h6v6h-6z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="workspace-overview.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.125"
+     inkscape:cx="78.666667"
+     inkscape:cy="42.545455"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     id="path2"
+     style="fill:#5e81ac;fill-opacity:1;stroke-width:1.15035"
+     d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z " />
+  <path
+     d="m2.9980469 33a22.696228 22.696232 0 0 0 20.8066411 13.695312 22.696228 22.696232 0 0 0 20.826171-13.695312z"
+     fill="#32323a"
+     fill-opacity=".542857"
+     id="path4" />
+  <g
+     fill="#ffffff"
+     id="g12">
+    <path
+       d="m10.5 24h6v6h-6z"
+       id="path6" />
+    <path
+       d="m21 24h6v6h-6z"
+       id="path8" />
+    <path
+       d="m31.5 24h6v6h-6z"
+       id="path10" />
+  </g>
+</svg>

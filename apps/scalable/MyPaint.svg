@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="48"
    width="48"
    version="1.1"
    id="svg6"
    sodipodi:docname="MyPaint.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,31 +40,23 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="13.376103"
-     inkscape:cx="8.9844789"
-     inkscape:cy="28.314246"
+     inkscape:cx="22.502817"
+     inkscape:cy="29.642415"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0" />
-  <circle
-     cx="23.940615"
-     cy="31.534513"
-     fill="#5e81ac"
-     opacity=".99"
-     r="13.232998"
-     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <path
      id="circle2"
-     style="fill:#cccccc;fill-opacity:1" />
-  <ellipse
-     cx="23.935829"
-     cy="24.468578"
-     fill="#5e81ac"
-     opacity="0.99"
+     style="opacity:0.99;fill:#d08770;fill-opacity:1"
+     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
+     d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
+  <path
      id="circle878"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:1.59854"
-     rx="21.15344"
-     ry="21.153442" />
+     style="opacity:0.99;fill:#ffffff;stroke-width:1.59854"
+     d="M 45.08927,24.468578 A 21.15344,21.153442 0 0 1 23.935829,45.622021 21.15344,21.153442 0 0 1 2.7823887,24.468578 21.15344,21.153442 0 0 1 23.935829,3.315136 21.15344,21.153442 0 0 1 45.08927,24.468578 Z" />
   <g
      id="g41"
      transform="matrix(0.10920258,0,0,0.10920258,-20.802484,4.0741408)">
@@ -125,7 +116,7 @@
     <path
        d="m 562.55,96.94 c -4.46,3.03 -109.36,74.5 -123.69,85.82 -7.16,5.66 -16.64,15.68 -24.91,24.99 2.72,3.37 24.46,30.27 27.18,33.64 11.04,-5.93 23.08,-12.91 30.35,-18.65 14.49,-11.45 107.88,-96.71 111.85,-100.33 6.33,-5.78 6.99,-15.45 1.52,-22.15 -5.46,-6.7 -15.2,-8.15 -22.3,-3.32 z"
        id="use63"
-       style="fill:#776f69;fill-opacity:1" />
+       style="fill:#d08770;fill-opacity:1" />
     <g
        id="g67">
       <path

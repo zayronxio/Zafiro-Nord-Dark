@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48.000001"
    id="svg4232"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="wmplayer.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="wmplayer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4234">
     <color-profile
        xlink:href="file:///usr/share/color/icc/colord/NTSC-RGB.icc"
-       id="color-profile3"
+       id="color-profile3331"
        name="NTSC-RGB" />
     <color-profile
        xlink:href="file:///usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile5"
+       id="color-profile3333"
        name="Apple-RGB" />
     <color-profile
        xlink:href="file:///usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile7"
+       id="color-profile3335"
        name="Compatible-with-Adobe-RGB--1998-" />
     <radialGradient
        id="radial0"
@@ -971,8 +971,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568545"
-     inkscape:cx="-30.472735"
-     inkscape:cy="40.899705"
+     inkscape:cx="-0.88388344"
+     inkscape:cy="39.686366"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -980,9 +980,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1031"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4780" />
@@ -995,7 +996,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1004,24 +1004,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <circle
-       style="opacity:1;fill:#97adc7;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path4782"
-       cx="23.446428"
-       cy="1028.804"
-       r="22.5" />
     <path
-       style="opacity:1;fill:#e5f1f1;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4782"
+       style="opacity:1;fill:#5e81ac;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="m 45.946428,1028.804 a 22.5,22.5 0 0 1 -22.5,22.5 22.5,22.5 0 0 1 -22.4999997,-22.5 22.5,22.5 0 0 1 22.4999997,-22.5 22.5,22.5 0 0 1 22.5,22.5 z" />
+    <path
+       style="opacity:1;fill:#d8dee9;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="M 23.447266 1.9414062 A 22.5 22.5 0 0 0 16.333984 3.125 L 16.333984 45.767578 A 22.5 22.5 0 0 0 23.447266 46.941406 A 22.5 22.5 0 0 0 30.666016 45.722656 L 30.666016 3.15625 A 22.5 22.5 0 0 0 23.447266 1.9414062 z "
        transform="translate(0,1004.3622)"
        id="circle1009" />
     <path
-       style="opacity:1;fill:#f4bfb1;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#b48ead;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="M 30.666016 3.15625 L 30.666016 45.722656 A 22.5 22.5 0 0 0 45.947266 24.441406 A 22.5 22.5 0 0 0 30.666016 3.15625 z "
        transform="translate(0,1004.3622)"
        id="circle1011" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:0.22053231;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.32335326;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4340"
        cx="23.446428"
        cy="1028.804"
@@ -1044,7 +1042,7 @@
        r="16.231066" />
     <path
        id="path856"
-       style="fill:#f4bfb1;fill-opacity:1;stroke:none;stroke-width:10.0606;stroke-linecap:square;stroke-linejoin:round"
+       style="fill:#b48ead;fill-opacity:1;stroke:none;stroke-width:10.0606;stroke-linecap:square;stroke-linejoin:round"
        d="m 22.802866,1018.7218 v 3.9839 7.0543 a 4.7973868,4.7973868 0 0 0 -2.065625,-0.4692 4.7973868,4.7973868 0 0 0 -4.797649,4.7976 4.7973868,4.7973868 0 0 0 4.797649,4.7977 4.7973868,4.7973868 0 0 0 4.797649,-4.7977 4.7973868,4.7973868 0 0 0 -0.01453,-0.3674 v -11.0153 h 5.432904 v -3.9839 z" />
   </g>
 </svg>

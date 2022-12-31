@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48.000001"
    id="svg4232"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-system-parental-controls.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mintNanny.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4234">
     <radialGradient
@@ -872,17 +872,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-114.37163"
-     inkscape:cy="20.667559"
+     inkscape:cx="32.5"
+     inkscape:cy="1.6071429"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4780" />
@@ -895,7 +896,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -904,12 +904,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <circle
-       style="opacity:1;fill:#c38021;fill-opacity:0.62737644;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+    <path
        id="path4782"
-       cx="23.446428"
-       cy="1028.804"
-       r="22.5" />
+       style="opacity:1;fill:#ebcb8b;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 45.946428,1028.804 a 22.5,22.5 0 0 1 -22.5,22.5 22.5,22.5 0 0 1 -22.4999997,-22.5 22.5,22.5 0 0 1 22.4999997,-22.5 22.5,22.5 0 0 1 22.5,22.5 z" />
     <path
        id="path1034-3"
        d="m 23.446428,1009.304 a 19.5,19.5 0 0 0 -19.4999999,19.5 19.5,19.5 0 0 0 19.4999999,19.5 19.5,19.5 0 0 0 19.5,-19.5 19.5,19.5 0 0 0 -19.5,-19.5 z m -4.724609,4.332 a 3.0500008,3.0500008 0 0 1 3.048827,3.0489 3.0500008,3.0500008 0 0 1 -3.048827,3.0507 3.0500008,3.0500008 0 0 1 -3.050781,-3.0507 3.0500008,3.0500008 0 0 1 3.050781,-3.0489 z m -2.541016,6.8047 0.560547,0 3.833984,0 0.560547,0 c 0.173558,0 0.22279,0.1659 0.3125,0.3145 l 5.191406,8.5976 c 0.127314,0.1741 0.205128,0.387 0.205078,0.6192 -1.67e-4,0.5812 -0.471462,1.0528 -1.052734,1.0527 -0.361601,10e-5 -0.681551,-0.1832 -0.871094,-0.4609 0,0 -0.002,0 -0.002,0 -0.0029,0 -0.0049,-0.01 -0.0078,-0.014 l -3.080078,-5.2793 0,17.8145 c 0.02322,1.1119 -1.798977,1.2543 -1.810547,0 l 0,-10.4942 -2.64453,0 0,10.4942 c 0.02323,1.1119 -1.798977,1.2543 -1.810547,0 l 0,-17.9532 -3.05664,5.2383 c -0.156808,0.3842 -0.532135,0.6542 -0.972657,0.6543 -0.581272,10e-5 -1.052555,-0.4695 -1.052734,-1.0508 -3.8e-5,-0.1955 0.05556,-0.3763 0.148437,-0.5332 l -0.0039,0 5.240234,-8.6816 c 0.08971,-0.1486 0.138944,-0.3125 0.3125,-0.3125 z m 15.667968,9.4395 a 2.1217396,2.1217396 0 0 1 2.123047,2.1211 2.1217396,2.1217396 0 0 1 -2.123047,2.123 2.1217396,2.1217396 0 0 1 -2.121093,-2.123 2.1217396,2.1217396 0 0 1 2.121093,-2.1211 z m -4.623047,2.4668 c 0.169033,0 0.322837,0.067 0.433594,0.1777 0.002,0 0.003,0.01 0.0059,0.01 l 1.953124,2.2383 3.082032,-0.025 c 0.07612,-0.01 0.1474,-0.01 0.21289,-0.01 0.458771,0.01 0.671464,0.1508 0.826172,0.3203 l 2.511719,2.918 -0.002,0 c 0.09742,0.1084 0.158203,0.2509 0.158203,0.4082 0,0.338 -0.273285,0.6113 -0.611328,0.6113 -0.169024,0 -0.322837,-0.067 -0.433594,-0.1777 -0.002,0 -0.003,-0.01 -0.0059,-0.01 l -1.4375,-1.5352 -0.09961,0.024 0,6.0566 c 0.0258,0.674 -1.14252,0.6709 -1.15625,0 l 0,-3.5762 -1.640625,0 0,3.5762 c 0.02581,0.674 -1.142521,0.6709 -1.15625,0 l 0,-3.5762 0,-2.6426 -0.199218,-0.4804 -0.384766,-0.4883 -2.511719,-2.8027 0.002,0 c -0.09743,-0.1084 -0.158203,-0.249 -0.158203,-0.4063 0,-0.338 0.273293,-0.6113 0.611328,-0.6113 z"

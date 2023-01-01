@@ -109,15 +109,15 @@
        cx="8.4665003"
        cy="8.4665003"
        r="8.4665003"
-       style="fill:#97b67c;fill-opacity:1" />
+       style="fill:#a3be8c;fill-opacity:1" />
     <g
        id="layer3-7"
        transform="matrix(0.04810511,0,0,0.04810511,-0.76968112,-1.5393629)"
-       style="fill:#d8dee9;fill-opacity:1;stroke:#ffffff">
+       style="fill:#e5e9f0;fill-opacity:1;stroke:#ffffff">
       <path
          id="path4193-5"
          d="m 80,104 v 144 c 0,35.15671 28.84329,64 64,64 h 96 c 35.15671,0 64,-28.84329 64,-64 v -80 c 0,-26.32015 -21.67985,-48 -48,-48 -12.29591,0 -23.46684,4.8602 -32,12.58594 C 215.46684,124.8602 204.29591,120 192,120 c -26.32015,0 -48,21.67985 -48,48 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 c 0,17.86263 -14.13737,32 -32,32 h -96 c -17.86263,0 -32,-14.13737 -32,-32 V 104 Z"
-         style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#d8dee9;fill-opacity:1;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+         style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#e5e9f0;fill-opacity:1;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
     </g>
   </g>
 </svg>

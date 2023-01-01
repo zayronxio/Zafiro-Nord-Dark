@@ -128,7 +128,7 @@
        ry="7.4464998"
        fill="url(#linearGradient834)"
        id="ellipse27"
-       style="fill:#6f917c;fill-opacity:1" />
+       style="fill:#a3be8c;fill-opacity:1" />
     <g
        transform="matrix(0.15384,0,0,0.15384,2.2725e-7,-28.759)"
        id="g41">
@@ -141,13 +141,13 @@
          image-rendering="auto"
          shape-rendering="auto"
          solid-color="#000000"
-         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#d8dee9;fill-opacity:1"
+         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#e5e9f0;fill-opacity:1"
          id="path31" />
       <g
          transform="matrix(0.26458,0,0,0.26458,4.2332,186.93)"
          fill="url(#linearGradient1052)"
          id="g39"
-         style="fill:#d8dee9;fill-opacity:1">
+         style="fill:#e5e9f0;fill-opacity:1">
         <path
            d="m 80,104 v 144 c 0,35.157 28.843,64 64,64 h 96 c 35.157,0 64,-28.843 64,-64 v -80 c 0,-26.32 -21.68,-48 -48,-48 -12.296,0 -23.467,4.8602 -32,12.586 C 215.4668,124.8603 204.296,120 192,120 c -26.32,0 -48,21.68 -48,48 v 80 h 32 v -80 c 0,-9.0261 6.9739,-16 16,-16 9.0261,0 16,6.9739 16,16 v 80 h 32 v -80 c 0,-9.0261 6.9739,-16 16,-16 9.0261,0 16,6.9739 16,16 v 80 c 0,17.863 -14.137,32 -32,32 h -96 c -17.863,0 -32,-14.137 -32,-32 V 104 Z"
            color="#000000"
@@ -157,7 +157,7 @@
            image-rendering="auto"
            shape-rendering="auto"
            solid-color="#000000"
-           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#d8dee9;fill-opacity:1"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#e5e9f0;fill-opacity:1"
            id="path37" />
       </g>
     </g>

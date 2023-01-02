@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg31"
+   sodipodi:docname="mediathekview.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="14.729167"
+     inkscape:cx="23.966054"
+     inkscape:cy="34.828854"
+     inkscape:window-width="1280"
+     inkscape:window-height="1365"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg31" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="bg"
+       x2="0"
+       y1="1"
+       y2="47"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#95b8c9"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#88afc2"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     style="fill:#88c0d0"
+     id="g17">
+    <path
+       d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z"
+       style="fill:#88c0d0;fill-opacity:1"
+       id="path15" />
+  </g>
+  <path
+     d="m31.688 11.5-2.9395 0.625c0.45686 1.6806 2.0242 2.5502 3.7812 3.2812l2.9062-0.625c0.77922-1.4774-1.8914-2.3023-3.748-3.2812zm-5.875 1.25-2.9395 0.625c0.26454 1.3011 1.9365 2.3092 3.7812 3.2812l2.9395-0.625c-0.81944-1.236-1.5531-2.4996-3.7812-3.2812zm-5.875 1.25-2.9395 0.625c0.45296 1.6705 1.6785 2.7891 3.7812 3.2812l2.9395-0.625c-0.5133-1.2183-1.8547-2.2985-3.7812-3.2812zm-5.8438 1.25-2.125 0.46875c-0.249 0.053-0.4642 0.13925-0.6582 0.28125 0.72409 1.1615 1.1256 2.3975 3.5957 3.1562l2.9375-0.625c0.1146-1.3548-1.0924-2.4568-3.75-3.2812zm0.90625 4.75-4 4v11.029c0 1.083 0.82375 1.9688 1.8438 1.9688h22.312c1.019 0 1.8457-0.88575 1.8457-1.9688v-11.029l-1-4h-3l-2.002 1-0.99805-1h-3l-2.002 1-0.99805-1h-3l-2.002 1-0.99805-1h-3z"
+     style="fill:#3b4252"
+     id="path23" />
+  <path
+     d="m34.162 11.002c-0.123-6.57e-4 -0.24641 0.01242-0.37109 0.03906l-2.1094 0.44922v2e-3l3.7695 3.2852 0.97852-0.20898-0.42383-1.9883c-0.19756-0.9268-0.98275-1.5735-1.8438-1.5781zm-5.4141 1.1172-2.9336 0.62695 3.7695 3.2832 2.9336-0.625zm-5.8672 1.2539-2.9336 0.625 3.7695 3.2852 2.9336-0.62695zm-5.8672 1.252-2.9336 0.62695 3.7695 3.2852 2.9336-0.62695zm-5.7051 1.373c-0.58457 0.42757-0.90117 1.2147-0.73047 2.0137l0.01367 0.0625 0.41211 1.9238 3.9121-0.83398s-3.606-3.1641-3.6074-3.166zm-0.30859 4.002v4h1l3-4zm7 0-3 4h3l3-4zm6 0-3 4h3l3-4zm6 0-3 4h3l3-4zm6 0-3 4h4v-4z"
+     style="fill:#e5e9f0"
+     id="path25" />
+  <path
+     d="m15 26h2l2.5 4 2.5-4h2v9h-2v-5.5l-2.5 4-2.5-4v5.5h-2v-9"
+     style="fill:#81a1c1"
+     id="path27" />
+  <path
+     d="m27 26 2 6 2-6h2l-3 9h-2l-3-9"
+     style="fill:#d08770"
+     id="path29" />
+</svg>

@@ -2,35 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48.000001"
    id="svg4232"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="synfig-icon.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="synfig_icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4234">
     <color-profile
        name="NTSC-RGB"
        xlink:href="/usr/share/color/icc/colord/NTSC-RGB.icc"
-       id="color-profile2" />
+       id="color-profile1055" />
     <color-profile
        name="Apple-RGB"
        xlink:href="/usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile4" />
+       id="color-profile1057" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile6" />
+       id="color-profile1059" />
     <radialGradient
        id="radial0"
        gradientUnits="userSpaceOnUse"
@@ -884,17 +884,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="-18.697478"
-     inkscape:cy="27.033895"
+     inkscape:cx="7.9549512"
+     inkscape:cy="21.92031"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4780" />
@@ -907,7 +908,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -916,12 +916,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <circle
-       style="opacity:1;fill:#4a94d1;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+    <path
        id="path4782"
-       cx="23.446428"
-       cy="1028.804"
-       r="22.5" />
+       style="opacity:1;fill:#81a1c1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="m 45.946428,1028.804 a 22.5,22.5 0 0 1 -22.5,22.5 22.5,22.5 0 0 1 -22.4999997,-22.5 22.5,22.5 0 0 1 22.4999997,-22.5 22.5,22.5 0 0 1 22.5,22.5 z" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:0.22053231;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4340"

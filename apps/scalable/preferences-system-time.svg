@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg18"
-   sodipodi:docname="yast-timezone.svg"
+   sodipodi:docname="awn-applet-digital-clock.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,8 +22,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="5.7894368"
-     inkscape:cx="-4.2318452"
-     inkscape:cy="35.150224"
+     inkscape:cx="-15.718282"
+     inkscape:cy="35.236588"
      inkscape:window-width="1920"
      inkscape:window-height="1031"
      inkscape:window-x="0"
@@ -32,7 +32,7 @@
      inkscape:current-layer="svg18" />
   <path
      id="path2"
-     style="stroke-width:1.15035;fill:#bf616a;fill-opacity:1"
+     style="stroke-width:1.15035;fill:#b48ead;fill-opacity:1"
      d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z " />
   <g
      fill="none"

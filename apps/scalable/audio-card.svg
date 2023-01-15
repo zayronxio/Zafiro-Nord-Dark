@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="48"
    width="48"
    version="1.1"
    id="svg10"
    sodipodi:docname="audio-card.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,21 +40,18 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="6.5554691"
-     inkscape:cx="-25.377753"
-     inkscape:cy="26.143959"
+     inkscape:cx="0.15254438"
+     inkscape:cy="32.33941"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
-  <circle
-     cx="23.940615"
-     cy="31.534513"
-     fill="#4c566a"
-     opacity=".99"
-     r="13.232998"
-     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
+     inkscape:current-layer="svg10"
+     inkscape:pagecheckerboard="0" />
+  <path
      id="circle2"
-     style="fill:#cc9279;fill-opacity:1" />
+     style="opacity:0.99;fill:#d08770;fill-opacity:1"
+     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
+     d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
   <path
      d="m 20.501419,13.020543 v 22.896072 h 2.289608 V 13.020543 Z m 4.579215,0 v 22.896072 h 2.289607 V 13.020543 Z m -9.158429,2.289607 v 18.316857 h 2.289607 V 15.31015 Z m 13.737643,0 v 18.316857 h 2.289607 V 15.31015 Z M 11.34299,17.599757 V 31.3374 h 2.289608 V 17.599757 Z m 22.896072,0 V 31.3374 H 36.52867 V 17.599757 Z M 6.7637762,19.889364 v 9.158429 h 2.2896072 v -9.158429 z m 32.0545008,0 v 9.158429 h 2.289607 V 19.889364 Z M 2.1845619,22.178972 v 4.579214 h 2.2896072 v -4.579214 z m 41.2129291,0 v 4.579214 h 2.289607 v -4.579214 z"
      fill="#ffffff"
@@ -86,18 +82,14 @@
        x="21.258097"
        y="14.099242" />
   </g>
-  <circle
-     style="fill:#cc9279;fill-opacity:0.99215686;stroke-width:1.25546"
+  <path
      id="path1654"
-     cx="32.218105"
-     cy="32.35598"
-     r="11.8201" />
-  <circle
-     style="fill:#ffffff;fill-opacity:0.56821758;stroke-width:1.03121"
+     style="fill:#d08770;fill-opacity:1;stroke-width:1.25546"
+     d="m 44.038205,32.35598 a 11.8201,11.8201 0 0 1 -11.8201,11.8201 11.8201,11.8201 0 0 1 -11.8201,-11.8201 11.8201,11.8201 0 0 1 11.8201,-11.8201 11.8201,11.8201 0 0 1 11.8201,11.8201 z" />
+  <path
      id="circle1656"
-     cx="32.218105"
-     cy="32.35598"
-     r="9.7088289" />
+     style="fill:#ffffff;fill-opacity:0.27744511;stroke-width:1.03121"
+     d="m 41.926934,32.35598 a 9.7088289,9.7088289 0 0 1 -9.708829,9.708829 9.7088289,9.7088289 0 0 1 -9.708829,-9.708829 9.7088289,9.7088289 0 0 1 9.708829,-9.708829 9.7088289,9.7088289 0 0 1 9.708829,9.708829 z" />
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"
      id="rect887"

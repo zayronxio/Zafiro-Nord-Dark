@@ -1,1 +1,62 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="23.940615" cy="31.534513" fill="#f38c52" opacity=".99" r="13.232998" transform="matrix(1.72140702696 0 0 1.72140725788 -17.2289093957 -30.06939350282)"/><g fill="#ffffff"><rect fill-opacity=".497409" height="28" ry="1" width="28" x="10" y="12"/><path d="m11 12c-.554 0-1 .446-1 1v8h4v19h4v-19h4v19h4v-19h4v19h4v-19h4v-8c0-.554-.446-1-1-1z"/><path d="m24 6.9492188c-4.141111 0-8.300781 3.1871452-8.300781 9.0507812a.800781.800781 0 1 0 1.601562 0c0-5.136364 3.34033-7.4492187 6.699219-7.4492188 3.358889 0 6.699219 2.3128548 6.699219 7.4492188a.800781.800781 0 1 0 1.601562 0c0-5.863636-4.15967-9.0507812-8.300781-9.0507812z" stroke="#f38c52" stroke-linecap="round" stroke-width=".8"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="deepin-software-center.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.229167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     cx="23.940615"
+     cy="31.534513"
+     opacity=".99"
+     r="13.232998"
+     transform="matrix(1.72140702696 0 0 1.72140725788 -17.2289093957 -30.06939350282)"
+     id="circle2"
+     style="fill:#d08770;fill-opacity:1" />
+  <g
+     fill="#ffffff"
+     id="g10">
+    <rect
+       fill-opacity=".497409"
+       height="28"
+       ry="1"
+       width="28"
+       x="10"
+       y="12"
+       id="rect4" />
+    <path
+       d="m11 12c-.554 0-1 .446-1 1v8h4v19h4v-19h4v19h4v-19h4v19h4v-19h4v-8c0-.554-.446-1-1-1z"
+       id="path6" />
+    <path
+       d="m24 6.9492188c-4.141111 0-8.300781 3.1871452-8.300781 9.0507812a.800781.800781 0 1 0 1.601562 0c0-5.136364 3.34033-7.4492187 6.699219-7.4492188 3.358889 0 6.699219 2.3128548 6.699219 7.4492188a.800781.800781 0 1 0 1.601562 0c0-5.863636-4.15967-9.0507812-8.300781-9.0507812z"
+       stroke-linecap="round"
+       stroke-width=".8"
+       id="path8"
+       style="stroke:#d08770;stroke-opacity:1" />
+  </g>
+</svg>

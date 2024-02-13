@@ -23,9 +23,9 @@
      showgrid="false"
      inkscape:zoom="8.1875"
      inkscape:cx="12.641221"
-     inkscape:cy="32.122137"
+     inkscape:cy="32.061069"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -48,9 +48,8 @@
          style="fill:#a3be8c;fill-opacity:1" />
       <path
          d="m 577.77,670.25 c -36.459,0 -68.098,-27.639 -68.098,-64.065 l -0.0327,-44.229 v -11.278 h -23.115 v -56.197 l 97.475,0.45904 30.492,0.0656 c 36.492,0 68.098,27.606 68.098,64.065 v 111.18 h -104.82 z m 89.967,-29.824 V 559.07 c 0,-27.18 -23.836,-49.213 -53.246,-49.213 h -30.524 v -0.0656 l -82.557,-0.36075 v 26.393 h 9.248 c 6.2786,0 13.834,5.9003 13.834,14.559 l 0.0656,55.769 c 0,27.18 23.836,49.213 53.213,49.213 h 72.531 c 9.2986,0 17.435,-5.8887 17.435,-14.939 z"
-         fill="url(#linearGradient938-2)"
          id="path26"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff" />
     </g>
   </g>
   <g
@@ -60,14 +59,7 @@
      style="fill:#e5e9f0;fill-opacity:1">
     <path
        d="m 80,104 v 144 c 0,35.157 28.843,64 64,64 h 96 c 35.157,0 64,-28.843 64,-64 v -80 c 0,-26.32 -21.68,-48 -48,-48 -12.296,0 -23.467,4.8602 -32,12.586 C 215.4668,124.8603 204.296,120 192,120 c -26.32,0 -48,21.68 -48,48 v 80 h 32 v -80 c 0,-9.0261 6.9739,-16 16,-16 9.0261,0 16,6.9739 16,16 v 80 h 32 v -80 c 0,-9.0261 6.9739,-16 16,-16 9.0261,0 16,6.9739 16,16 v 80 c 0,17.863 -14.137,32 -32,32 h -96 c -17.863,0 -32,-14.137 -32,-32 V 104 Z"
-       color="#000000"
-       color-rendering="auto"
-       dominant-baseline="auto"
-       fill="url(#linearGradient847-7)"
-       image-rendering="auto"
-       shape-rendering="auto"
-       solid-color="#000000"
-       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1"
-       id="path36" />
+       id="path36"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>

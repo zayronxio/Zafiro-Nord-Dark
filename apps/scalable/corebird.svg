@@ -1,1 +1,55 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="23.940615" cy="31.534513" fill="#aa6ca6" opacity=".99" r="13.232998" transform="matrix(1.72140702696 0 0 1.72140725788 -17.2289093957 -30.06939350282)"/><path d="m24 21-7 7 7 8 7-8z" fill="#ffffffff8" fill-opacity=".454902" fill-rule="evenodd"/><path d="m16.818359 14.001953a7 7 0 0 0 -6.80664 6.689453 7 7 0 0 0 6.05664 7.240235l7.867188-7.867188a7 7 0 0 0 -6.632813-6.058594 7 7 0 0 0 -.484375-.003906zm14.003907 0a7 7 0 0 0 -6.748047 6.072266l7.857422 7.857422a7 7 0 0 0 6.068359-6.597657l.001953-.050781a7 7 0 0 0 -6.697265-7.277344 7 7 0 0 0 -.482422-.003906zm-14.386719 4.998047a2.5 2.5 0 0 1 .173828.001953 2.5 2.5 0 0 1 2.390625 2.599609v.017579a2.5 2.5 0 0 1 -2.611328 2.378906 2.5 2.5 0 0 1 -2.382813-2.607422 2.5 2.5 0 0 1 2.429688-2.390625zm14.998047 0a2.5 2.5 0 0 1 .171875.001953 2.5 2.5 0 0 1 2.392578 2.599609v.017579a2.5 2.5 0 0 1 -2.613281 2.378906 2.5 2.5 0 0 1 -2.382813-2.607422 2.5 2.5 0 0 1 2.431641-2.390625z" fill="#ffffff" fill-opacity=".964789"/><path d="m24 21-7 7 7 8z" fill="#ffffffff8" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="org.baedert.corebird.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.229167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <circle
+     cx="23.940615"
+     cy="31.534513"
+     opacity=".99"
+     r="13.232998"
+     transform="matrix(1.72140702696 0 0 1.72140725788 -17.2289093957 -30.06939350282)"
+     id="circle2"
+     style="fill:#b48ead;fill-opacity:1" />
+  <path
+     d="m24 21-7 7 7 8 7-8z"
+     id="path4"
+     style="fill:#ffffff;fill-opacity:0.34998426" />
+  <path
+     d="m16.818359 14.001953a7 7 0 0 0 -6.80664 6.689453 7 7 0 0 0 6.05664 7.240235l7.867188-7.867188a7 7 0 0 0 -6.632813-6.058594 7 7 0 0 0 -.484375-.003906zm14.003907 0a7 7 0 0 0 -6.748047 6.072266l7.857422 7.857422a7 7 0 0 0 6.068359-6.597657l.001953-.050781a7 7 0 0 0 -6.697265-7.277344 7 7 0 0 0 -.482422-.003906zm-14.386719 4.998047a2.5 2.5 0 0 1 .173828.001953 2.5 2.5 0 0 1 2.390625 2.599609v.017579a2.5 2.5 0 0 1 -2.611328 2.378906 2.5 2.5 0 0 1 -2.382813-2.607422 2.5 2.5 0 0 1 2.429688-2.390625zm14.998047 0a2.5 2.5 0 0 1 .171875.001953 2.5 2.5 0 0 1 2.392578 2.599609v.017579a2.5 2.5 0 0 1 -2.613281 2.378906 2.5 2.5 0 0 1 -2.382813-2.607422 2.5 2.5 0 0 1 2.431641-2.390625z"
+     fill="#ffffff"
+     fill-opacity=".964789"
+     id="path6" />
+  <path
+     d="m24 21-7 7 7 8z"
+     fill-rule="evenodd"
+     id="path8"
+     style="fill:#ffffff;fill-opacity:0.33603588" />
+</svg>

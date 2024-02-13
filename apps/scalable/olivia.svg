@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    preserveAspectRatio="xMidYMid meet"
    viewBox="0 0 640 640"
@@ -15,7 +7,15 @@
    height="64"
    id="svg71"
    sodipodi:docname="olivia.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata75">
     <rdf:RDF>
@@ -24,7 +24,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,16 +37,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-height="1022"
      id="namedview73"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="19.633879"
-     inkscape:cy="37.842884"
+     inkscape:zoom="10.429825"
+     inkscape:cx="30.920941"
+     inkscape:cy="33.893186"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg71" />
+     inkscape:current-layer="g67"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs9">
     <path
@@ -140,13 +140,11 @@
       </g>
       <g
          id="g41">
-        <use
-           xlink:href="#gZfIUaxQ"
-           opacity="1"
-           fill="#e5e69c"
-           fill-opacity="1"
+        <path
            id="use35"
-           style="fill:#e6e2ed;fill-opacity:1" />
+           style="fill:#e6e2ed;fill-opacity:1;stroke-width:0.1"
+           d="M 21.451172 33.412109 C 17.239172 33.412109 13.8125 36.309094 13.8125 39.871094 C 13.8125 43.433094 17.239172 46.332031 21.451172 46.332031 C 21.797172 46.332031 22.078125 46.095734 22.078125 45.802734 L 22.078125 33.941406 C 22.078125 33.649406 21.797172 33.412109 21.451172 33.412109 z "
+           transform="scale(10)" />
         <g
            id="g39">
           <use
@@ -160,56 +158,12 @@
         </g>
       </g>
       <g
-         id="g49">
-        <use
-           xlink:href="#b42twxSCwN"
-           opacity="1"
-           fill="#e5e69c"
-           fill-opacity="1"
-           id="use43"
-           style="fill:#e6e2ed;fill-opacity:1" />
-        <g
-           id="g47">
-          <use
-             xlink:href="#b42twxSCwN"
-             opacity="1"
-             fill-opacity="0"
-             stroke="#000000"
-             stroke-width="1"
-             stroke-opacity="0"
-             id="use45" />
-        </g>
-      </g>
-      <g
-         id="g57">
-        <use
-           xlink:href="#bemwVNEvV"
-           opacity="1"
-           fill="#9397dd"
-           fill-opacity="1"
-           id="use51"
-           style="fill:#ffffff" />
-        <g
-           id="g55">
-          <use
-             xlink:href="#bemwVNEvV"
-             opacity="1"
-             fill-opacity="0"
-             stroke="#000000"
-             stroke-width="1"
-             stroke-opacity="0"
-             id="use53" />
-        </g>
-      </g>
-      <g
          id="g65">
-        <use
-           xlink:href="#bPbUAzU2o"
-           opacity="1"
-           fill="#9397dd"
-           fill-opacity="1"
+        <path
            id="use59"
-           style="fill:#ffffff" />
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.1"
+           d="M 22.703125 32.488281 C 22.357125 32.488281 22.078125 32.710375 22.078125 32.984375 L 22.078125 46.759766 C 22.078125 47.034766 22.357125 47.255859 22.703125 47.255859 L 29.048828 47.255859 C 29.394828 47.255859 29.675781 47.034766 29.675781 46.759766 L 29.675781 32.984375 C 29.675781 32.710375 29.394828 32.488281 29.048828 32.488281 L 22.703125 32.488281 z "
+           transform="scale(10)" />
         <g
            id="g63">
           <use
@@ -220,6 +174,34 @@
              stroke-width="1"
              stroke-opacity="0"
              id="use61" />
+        </g>
+        <path
+           id="path1384"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+           d="m 348.61,324.88 c -3.46,0 -6.25,2.22094 -6.25,4.96094 v 137.75391 c 0,2.75 2.79,4.96093 6.25,4.96093 h 63.45703 c 3.46,0 6.26953,-2.21093 6.26953,-4.96093 V 329.84094 c 0,-2.74 -2.80953,-4.96094 -6.26953,-4.96094 z" />
+      </g>
+      <g
+         id="g1157"
+         transform="matrix(-1,0,0,1,639.23743,0)">
+        <path
+           id="path1151"
+           style="fill:#e6e2ed;fill-opacity:1;stroke-width:0.1"
+           d="m 21.451172,33.412109 c -4.212,0 -7.638672,2.896985 -7.638672,6.458985 0,3.562 3.426672,6.460937 7.638672,6.460937 0.346,0 0.626953,-0.236297 0.626953,-0.529297 V 33.941406 c 0,-0.292 -0.280953,-0.529297 -0.626953,-0.529297 z"
+           transform="scale(10)" />
+        <g
+           id="g1155">
+          <use
+             xlink:href="#gZfIUaxQ"
+             opacity="1"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-opacity="0"
+             id="use1153"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
         </g>
       </g>
     </g>

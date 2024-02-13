@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg18"
-   sodipodi:docname="musicbrainz-picard.svg"
+   sodipodi:docname="picard.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1022"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="13.906434"
-     inkscape:cx="44.152226"
-     inkscape:cy="23.62216"
+     inkscape:zoom="3.4766084"
+     inkscape:cx="23.15475"
+     inkscape:cy="21.428931"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg18"
      inkscape:pagecheckerboard="0">
@@ -57,9 +57,12 @@
      transform="matrix(1.72140702696 0 0 1.72140725788 -17.2289093957 -30.06939350282)"
      d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
   <path
+     transform="matrix(1.721407,0,0,1.7214073,-17.228909,-30.069394)"
+     style="opacity:0.98999999;fill:#d3b197;fill-opacity:1"
+     d="m 37.173613,31.534513 c 0,7.308383 -5.924615,13.232998 -13.232998,13.232998 V 18.301516 c 7.308383,0 13.232997,5.924614 13.232998,13.232997 z"
      id="circle4592"
-     style="opacity:0.99;fill:#d08770;fill-opacity:1;stroke-width:1.72141"
-     d="M 23.982422 1.4355469 L 23.982422 46.994141 C 36.563124 46.994141 46.761719 36.795548 46.761719 24.214844 C 46.761717 11.63414 36.563124 1.4355469 23.982422 1.4355469 z " />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccs" />
   <g
      id="g4590"
      transform="matrix(0.28422368,0,0,0.28422368,17.475178,16.633934)">

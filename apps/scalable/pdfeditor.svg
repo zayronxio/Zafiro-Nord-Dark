@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg6"
-   sodipodi:docname="masterPDFEditor-free.svg"
+   sodipodi:docname="briss.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1029"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="13.376103"
-     inkscape:cx="24.072781"
-     inkscape:cy="28.745293"
+     inkscape:cx="25.119424"
+     inkscape:cy="30.689058"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,10 +58,12 @@
      d="m 17.461595,6.6082245 c -4.948954,8.2482565 24.744769,26.3944205 24.744769,21.4454675 0,-8.248257 -31.343375,3.299302 -28.044072,11.547559 6.598605,3.299302 9.897908,-32.9930265 3.299303,-32.9930265 z"
      inkscape:connector-curvature="0"
      style="fill:none;stroke:#ffffff;stroke-width:1.64965;stroke-linejoin:round" />
-  <path
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:#bf616a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
      id="path4516"
-     style="fill:#ffffff;stroke:#bf616a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stroke-opacity:1"
-     d="m 41.239243,35.263527 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z" />
+     cx="33.239243"
+     cy="35.263527"
+     r="8" />
   <path
      style="fill:#bf616a;fill-opacity:1;stroke-width:0.791854"
      id="path47-6"

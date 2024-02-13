@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    preserveAspectRatio="xMidYMid meet"
    viewBox="0 0 640 640"
@@ -15,7 +7,14 @@
    height="64"
    id="svg23"
    sodipodi:docname="offroad.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata27">
     <rdf:RDF>
@@ -36,17 +35,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1850"
-     inkscape:window-height="1048"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="32.184869"
-     inkscape:cy="40.237934"
-     inkscape:window-x="70"
+     inkscape:cx="32.135593"
+     inkscape:cy="40.271186"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg23" />
+     inkscape:current-layer="g13"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs5">
     <path
@@ -66,35 +66,28 @@
       <g
          id="g9"
          style="fill:#cfc685;fill-opacity:1">
-        <use
-           xlink:href="#g5d0q7jZlK"
-           opacity="1"
-           fill="#b3b2b2"
-           fill-opacity="1"
+        <path
            id="use7"
-           style="fill:#cfc685;fill-opacity:1" />
+           style="fill:#ebcb8b;fill-opacity:1;stroke-width:0.1"
+           d="M 32.113281 1.8632812 C 15.699281 1.8632813 2.375 15.316719 2.375 31.886719 C 2.375 48.456719 15.699281 61.908203 32.113281 61.908203 C 48.526281 61.908203 61.851562 48.456719 61.851562 31.886719 C 61.851562 15.316719 48.526281 1.8632812 32.113281 1.8632812 z "
+           transform="scale(10)" />
       </g>
       <g
          id="g13"
          style="fill:#ffffff;fill-opacity:1">
-        <use
-           xlink:href="#f433UwJ0Wc"
-           opacity="1"
-           fill="#eddb5c"
-           fill-opacity="1"
+        <path
            id="use11"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.1"
+           d="M 32.283203 9.3632812 C 19.852203 9.3632813 9.7617188 19.481359 9.7617188 31.943359 C 9.7617188 42.474359 16.967172 51.330266 26.701172 53.822266 C 28.487172 54.280266 30.356203 58.726562 32.283203 58.726562 C 34.272203 58.726563 36.202062 54.263344 38.039062 53.777344 C 47.686062 51.224344 54.806641 42.411359 54.806641 31.943359 C 54.806641 19.481359 44.714203 9.3632812 32.283203 9.3632812 z "
+           transform="scale(10)" />
       </g>
       <g
          id="g17"
          style="fill:#e6d774;fill-opacity:1">
-        <use
-           xlink:href="#fmcZ1KDVS"
-           opacity="1"
-           fill="#b3b2b2"
-           fill-opacity="1"
+        <path
+           d="m 465.68,318.86 c 0,78.84 -64.51,142.84 -143.98,142.84 -79.46,0 -143.97,-64 -143.97,-142.84 0,-78.83 64.51,-142.84 143.97,-142.84 79.47,0 143.98,64.01 143.98,142.84 z"
            id="use15"
-           style="fill:#e6d774;fill-opacity:1" />
+           style="fill:#ebcb8b;fill-opacity:1" />
       </g>
     </g>
   </g>

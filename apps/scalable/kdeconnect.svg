@@ -4,7 +4,7 @@
    width="48"
    version="1.1"
    id="svg6"
-   sodipodi:docname="org.kde.kdeconnect.svg"
+   sodipodi:docname="kdeconnect.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -71,12 +71,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1000"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="9.2708332"
-     inkscape:cx="35.811236"
-     inkscape:cy="12.997753"
+     inkscape:cx="35.865169"
+     inkscape:cy="13.051686"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -89,9 +89,8 @@
   </sodipodi:namedview>
   <path
      id="circle2"
-     style="opacity:0.99;fill:#bf616a;fill-opacity:1"
-     transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
-     d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
+     style="opacity:0.99;fill:#a3be8c;fill-opacity:1;stroke-width:1.75831"
+     d="M 23.935547 1.2011719 A 23.267658 23.267661 0 0 0 0.66796875 24.46875 A 23.267658 23.267661 0 0 0 23.935547 47.736328 A 23.267658 23.267661 0 0 0 47.203125 24.46875 A 23.267658 23.267661 0 0 0 23.935547 1.2011719 z " />
   <path
      id="circle846"
      style="opacity:0.99;fill:#ffffff;fill-opacity:0.583899;stroke-width:1.534"
@@ -105,7 +104,7 @@
      y="9" />
   <path
      id="rect842"
-     style="fill:#bf616a;fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"
+     style="fill:#a3be8c;fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"
      d="M 16,10 H 33 V 36 H 16 Z" />
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"
@@ -130,6 +129,6 @@
      y="31" />
   <path
      id="rect852"
-     style="fill:#bf616a;fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"
+     style="fill:#a3be8c;fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"
      d="m 21,37 h 7 v 2 h -7 z" />
 </svg>
